@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2a58dac-d16d-4287-af35-a666e69e75f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Twitter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8367c6dd-1834-4739-bf9c-c063c6ecafcf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/django_project/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_project/django_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+            <state relative-caret-position="244">
+              <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -180,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557570745643</updated>
-      <workItem from="1557570750497" duration="1709000" />
+      <workItem from="1557570750497" duration="2534000" />
     </task>
     <task id="LOCAL-00001" summary="requirements added">
       <created>1557571229144</created>
@@ -196,23 +183,31 @@
       <option name="project" value="LOCAL" />
       <updated>1557572297649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="app Twitter added">
+      <created>1557572477026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557572477026</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1709000" />
+    <option name="totallyTimeSpent" value="2534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2801303" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2931596" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -235,7 +230,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="requirements added" />
     <MESSAGE value="project added" />
-    <option name="LAST_COMMIT_MESSAGE" value="project added" />
+    <MESSAGE value="app Twitter added" />
+    <option name="LAST_COMMIT_MESSAGE" value="app Twitter added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/requiremets.txt">
@@ -261,10 +257,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/django_project/django_project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/django_project/django_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        <state relative-caret-position="244">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
         </state>
       </provider>
     </entry>
